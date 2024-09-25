@@ -1,0 +1,7 @@
+coverage_service: cobertura_xml
+workspace: WeatherApp.xcworkspace
+scheme: WeatherApp
+output_directory: build/reports
+input_format: profdata
+xcodeproj: WeatherApp.xcodeproj
+build_directory: ./DerivedData

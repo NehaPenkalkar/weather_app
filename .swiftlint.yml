@@ -1,0 +1,22 @@
+excluded:
+  - Pods
+  - Cartography
+  
+force_cast: warning # implicitly
+
+force_try:
+  severity: warning # explicitly
+
+identifier_name:
+  min_length: 1
+  allowed_symbols: ["_"]
+
+disabled_rules: # rule identifiers to exclude from running
+  - cyclomatic_complexity
+  - line_length
+  - file_length
+  - function_body_length
+  - type_body_length
+  - void_function_in_ternary
+  - trailing_whitespace
+  - inclusive_language

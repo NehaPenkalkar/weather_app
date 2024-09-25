@@ -1,0 +1,7 @@
+organization=weathertest
+projectKey=weathertest_weather-app
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56719
+dashboardUrl=https://sonarcloud.io/dashboard?id=weathertest_weather-app
+ceTaskId=AZIofOpJsc1e5MLHl8ns
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZIofOpJsc1e5MLHl8ns
